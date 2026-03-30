@@ -37,7 +37,7 @@ I learned how to code and style a completely seperate card element for mobile an
 
 ### Continued development
 
-I will continue to make all of my projects responsive for all screen sizes and keep my code as clean and consise as possible.
+I will continue to make all of my projects responsive for all screen sizes and keep my code as clean and concise as possible.
 
 ## Author
 
